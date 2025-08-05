@@ -1,6 +1,6 @@
 # Challenge-Telecom-X
 
-El proyecto de análisis de evasión de clientes tiene por objetivo determinar los factores que influyen en la alta tasa de cancelaciones que presenta la empresa mediante la recopilación, procesamiento y análisis de los datos.
+El proyecto de análisis de evasión de clientes tiene por objetivo determinar los factores que influyen en la alta tasa de cancelaciones (churn) que presenta la empresa mediante la recopilación, procesamiento y análisis de los datos.
 
 ## Estructura
   - Preparando el ambiente
