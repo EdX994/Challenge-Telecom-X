@@ -13,7 +13,7 @@ El proyecto de análisis de evasión de clientes tiene por objetivo determinar l
   - Python
   - Google Colab
 
-##Librerías utilizadas
+## Librerías utilizadas
   - Pandas
   - Numpy
   - Matplotlib
